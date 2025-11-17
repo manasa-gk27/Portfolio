@@ -13,7 +13,7 @@ const experience = [
 // Projects
 const projects = [
     "Sentiment Analysis Web App: Built using Python and Flask to analyze text sentiment in real-time.",
-    "AI Chatbot Prototype: Developed an interactive chatbot using OpenAI API and React.",
+    "AI Study Buddy: Built a micro-tool to generate text summaries using JavaScript, showcasing rapid AI-first prototyping and clean front-end design",
     "Portfolio Website: Created this editable portfolio using HTML, CSS, and JavaScript."
 ];
 
